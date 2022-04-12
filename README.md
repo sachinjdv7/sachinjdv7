@@ -1,9 +1,13 @@
-![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)
+[![MasterHead](https://static.platzi.com/media/blog/mern-stack-284eedb6-ee6b-4441-b181-5064a453a15a.png)]
 <h1 align="center">Hi 👋, I'm Sachin Jadhav</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinjdv7&label=Profile%20views&color=0e75b6&style=flat" alt="sachinjdv7" /> </p>
+
+- I'm passionate 😍  about building web applications using **MERN stack 🥳**.
+
+- Currently doing fellowship software dev at **@crio.do.**
 
 - 🌱 I’m currently learning **MERN Stack**
 
